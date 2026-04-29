@@ -33,9 +33,9 @@ export const metadata = {
     icon: "/logo.png",
   },
 
-  verification: {
-    google: "IpyctEs3pQNHzPdaKj1ExRBIML16IlDUKbdzdnAWhic",
-  },
+ verification: {
+  google: "IpyctEs3pQNHzPdaKj1ExRBIML16IlDUKbdzdnAWhic",
+}
 };
 
 export default function RootLayout({ children }) {
