@@ -33,7 +33,7 @@ export const metadata = {
     icon: "/logo.png",
   },
 
- verification: {
+verification: {
   google: "IpyctEs3pQNHzPdaKj1ExRBIML16IlDUKbdzdnAWhic",
 }
 };
